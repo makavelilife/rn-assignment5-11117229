@@ -16,13 +16,12 @@
 - Display the navs bar and other features
 
 ### Contexxt
-- Display the dark and light theme in the setting page 
+- Display the dark and light theme in the setting page
 
 
 ## Screenshots
 
-- ![Screenshot1]()
-- ![Screenshot2]()
-- ![Screenshot3]()
-- ![Screenshot4]()
-
+- ![Screenshot1](./assets/Screenshot1.png)
+- ![Screenshot2](./assets/Screenshot2.png)
+- ![Screenshot3](./assets/Screenshot3.png)
+- ![Screenshot4](./assets/Screenshot4.png)
